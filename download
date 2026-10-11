@@ -1,0 +1,15 @@
+# Compiled C programs (made by setup.py)
+*.exe
+*.o
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code / Code Runner
+tempCodeRunnerFile.py
+.vscode/
+
+# Exported reports
+report*.txt
